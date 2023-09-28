@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeytonAndras
 - 👀 I’m interested in computer science / cyber security
-- 🌱 I’m currently a second year computer science major
+- 🌱 I’m currently a third year computer science major
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me peytonandras@gmail.com
 
